@@ -9,7 +9,7 @@
   "firmware": {
     "filename": "ProxiOS_v3.2.0.bin",
     "url": "https://github.com/proxilock/ProxiLock-Updates/releases/download/v3.2.0/ProxiOS_v3.2.0.bin",
-    "size": 0,
+    "size": 1957856,
     "sha256": "A9B57B2A3CA56C25BEFECCECB74010DAAD6574B21668E927CA5EE0EB90D9B08E"
   },
   "changes": [
