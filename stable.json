@@ -13,10 +13,7 @@
     "sha256": "0A2252D8BEE17C301CA57C303D65C6286E2D2B3960BDB3F6282A6B0B271FBB5C"
   },
   "changes": [
-    "Added automatic GitHub update checking",
-    "Added ProxiOS Update Centre",
-    "Added verified online firmware installation",
-    "Retained manual OTA upload and rollback protection",
-    "Added Stable, Beta and Development manifest support"
+    "Modified automatic GitHub update checking",
+    "Added ProxiOS Update frequency checking"
   ]
 }
