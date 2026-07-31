@@ -2,15 +2,15 @@
   "product": "ProxiLock",
   "os": "ProxiOS",
   "channel": "stable",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "minimumVersion": "3.1.43",
   "releaseDate": "2026-07-31",
   "mandatory": false,
   "firmware": {
-    "filename": "ProxiOS_v3.2.0.bin",
-    "url": "https://github.com/proxilock/ProxiLock-Updates/releases/download/v3.2.0/ProxiOS_v3.2.0.bin",
-    "size": 1957856,
-    "sha256": "A9B57B2A3CA56C25BEFECCECB74010DAAD6574B21668E927CA5EE0EB90D9B08E"
+    "filename": "ProxiOS_v3.2.1.bin",
+    "url": "https://github.com/proxilock/ProxiLock-Updates/releases/download/v3.2.1/ProxiOS_v3.2.1.bin",
+    "size": 1961312,
+    "sha256": "0A2252D8BEE17C301CA57C303D65C6286E2D2B3960BDB3F6282A6B0B271FBB5C"
   },
   "changes": [
     "Added automatic GitHub update checking",
