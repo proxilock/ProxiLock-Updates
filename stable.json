@@ -4,7 +4,7 @@
   "channel": "stable",
   "version": "3.2.6",
   "minimumVersion": "3.1.43",
-  "releaseDate": "2026-07-31",
+  "releaseDate": "01-08-2026",
   "mandatory": false,
   "firmware": {
     "filename": "ProxiOS_v3.2.1.bin",
