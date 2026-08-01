@@ -7,7 +7,7 @@
   "releaseDate": "01-08-2026",
   "mandatory": false,
   "firmware": {
-    "filename": "ProxiOS_v3.2.1.bin",
+    "filename": "ProxiOS_v3.2.6.bin",
     "url": "https://github.com/proxilock/ProxiLock-Updates/releases/download/v3.2.6/ProxiOS_v3.2.6.bin",
     "size": 1988128,
     "sha256": "7DA28E0F1AA41AB155EE184FDAFF0058DC04E9C38D5063E514E228A72598E966"
